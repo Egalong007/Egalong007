@@ -2,7 +2,7 @@
 - 👀 I’m interested in working in IT community 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any team
-- 📫 How to reach me FB/IG
+- 📫 How to reach me Github 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
